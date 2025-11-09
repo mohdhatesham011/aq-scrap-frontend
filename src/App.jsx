@@ -1,6 +1,6 @@
 import React from 'react';
 import SellForm from './components/SellForm';
-import Header from './components/Header';
+import Header from './components/Header.jsx';
 
 function App() {
   return (
